@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nikita</h1>
 <h3 align="center">A passionate frontend & Backend developer from India</h3>
-<h3 align="center"> I’m currently learning React,NodeJs,DevOps</h3>How to reach me
+<h3 align="center"> I’m currently learning React,NodeJs,DevOps</h3>
 <h3 align="center"> How to reach me <a href="np7162712@gmail.com">np7162712@gmail.com</a></h3>
 
 
