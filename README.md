@@ -1,7 +1,15 @@
 <h1 align="center">Hi 👋, I'm Nikita</h1>
+<ul>
+  <li>
 <h3 align="center">A passionate frontend & Backend developer from India</h3>
+  </li>
+  <li>
 <h3 align="center"> I’m currently learning React,NodeJs,DevOps</h3>
+  </li>
 <h3 align="center"> How to reach me <a href="np7162712@gmail.com">np7162712@gmail.com</a></h3>
+<h3 align="center"> I’m looking to collaborate on Frontend project</h3>
+</ul>
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikitagit123&label=Profile%20views&color=0e75b6&style=flat" alt="nikitagit123" /> </p>
