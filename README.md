@@ -2,6 +2,7 @@
 
 <h2 align="center">A passionate frontend & Backend developer from India</h2>
 <h3 align="left">🔭 I’m currently working on TCS</h3>
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://api.daily.dev/devcards/76e1d93a4ed74b38a42d14180fc00696.png?r=a9x"  align="right" width="300" alt="Chris Bongers's Dev Card"/></a>
 <h3 align="left">🌱 I’m currently learning React,NodeJs,DevOps.</h3>
 <h3 align="left">📫 How to reach me <a href="np7162712@gmail.com">np7162712@gmail.com</a></h3>
 <h3 align="left">👯 I’m looking to collaborate on Frontend project.</h3>
